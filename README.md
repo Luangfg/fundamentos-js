@@ -1,5 +1,5 @@
-## fundamentos-js
-##Alguns fundamentos funções de JavaScript
+### Fundamentos - JavaScript
+<h2>Alguns fundamentos funções de JavaScript</h2>h2>
 <ul>
   <li>Trechos de codigos que podem ser executados mais de uma vez</li>
   <li>As vantagens de usar as funções para facilitar a manutenção do código</li>
